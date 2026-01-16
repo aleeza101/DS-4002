@@ -1,0 +1,4 @@
+Field,Description,Potential Response
+Are you a full-time undergraduate student?,Are you currently enrolled in 12 credits or more at the university,Yes/No
+Year,What year are you currently in right now at the university,"1st, 2nd, 3rd, 4th"
+Do you believe a hot dog is a sandwich?,Do you think that a hot dog should be considered a sandwich or not,Yes/No
